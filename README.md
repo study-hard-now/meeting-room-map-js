@@ -1,3 +1,2 @@
-# react-ct1ext
+# meeting room map
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ct1ext)
